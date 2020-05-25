@@ -1,17 +1,10 @@
 # hello_flutter
+---
+This is my first _Flutter_ application.
+This application will greet you, change its color 
+randomly after touch at any place of the screen 
+and notify you with a SnackBar.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# hello_flutter" 
+The app is created with _Android Studio_, so you can download it
+and run with a virtual device or install on your phone.
+Also, it's possible to download a built .apk file and install the app with it.
